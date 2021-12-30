@@ -2,6 +2,10 @@
 
 Developmentplatform: Windwos 10, Visual Studio v xx, URP Project. 
 
+Editor: 
+Quill Lit shader funkt
+lässt sich alles commiten. 
+
 Testing Quill Shader, URP for WebGL incl. Settings, export to WebGL.
 Projects Settings->Graphics->Always Included Shaders?
 
